@@ -1,16 +1,9 @@
-\frametitle{\centerline {Modules and Packages (3/n)}}
+\frametitle{\centerline {Packages (2/n)}}
 \begin{itemize}
-	 \item To load the names of the module inside the current namespace the instruction \texttt{from amodule import goofy} must be specified
-	 \item It is also possible to import all the names inside \texttt{amodule.py} with the instruction \texttt{from amodule import *}, in which case only the names starting with an \texttt{\_} will not be directly accessible
-               \begin{itemize}
-		\item in this way it is possible just to call \texttt{goophy()}
-              \end{itemize}
-	 \item It is also possible to rename an entity or module as
-	       \begin{itemize}
-		  \item \texttt{import amodule as unmodulo}, leading to calls like \texttt{unmodulo.goophy()} or even
-		  \item  \texttt{from amodule import goofy as pippo}, leading to calls like \texttt{amodule.pippo()}
-              \end{itemize}
-    \end{itemize}
+	 \item When a package is loaded, its \texttt{\_\_init\_\_.py} is executed
+	 \item It acts as a kind of constructor of the package
+	
+ \end{itemize}
     \begin{center}
-	\tiny Source: \url{https://docs.python.org/3/tutorial/modules.html}
+	\tiny Source: \url{https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html}
     \end{center}

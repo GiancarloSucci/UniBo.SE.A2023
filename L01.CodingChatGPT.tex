@@ -1879,7 +1879,7 @@ Before the third call to f x is:  [4]
 \end{frame}
 
 \begin{frame}[fragile]
-{\centerline{Modules and Packages (1/n)}}
+{\centerline{Modules (1/n)}}
 \begin{itemize}
        \item Python structure the code quite like C
        \item Every file is a module
@@ -1888,6 +1888,7 @@ Before the third call to f x is:  [4]
 		\item it is stored in the variable \texttt{\_\_name\_\_}
 		\item such name is changed to \texttt{\_\_main\_\_} if the module is the one directly invoked
         \end{itemize}
+        \item A module is an object in Python
     \end{itemize}
     \begin{center}
 	\tiny Source: \url{https://docs.python.org/3/tutorial/modules.html}
@@ -1895,7 +1896,7 @@ Before the third call to f x is:  [4]
 \end{frame}
 
 \begin{frame}[fragile]
-{\centerline{Modules and Packages (2/n)}}
+{\centerline{Modules (2/n)}}
 \begin{itemize}
         \item To access the module you need to specify the instruction \texttt{import amodule} 
                \begin{itemize}
@@ -1911,14 +1912,14 @@ Before the third call to f x is:  [4]
 \end{frame}
 
 \begin{frame}[fragile]
-{\centerline{Modules and Packages (3/n)}}
+{\centerline{Modules (3/n)}}
 \begin{itemize}
-	 \item To load the names of the module inside the current namespace the instruction \texttt{from amodule import goofy} must be specified
-	 \item It is also possible to import all the names inside \texttt{amodule.py} with the instruction \texttt{from amodule import *}, in which case only the names starting with an \texttt{\_} will not be directly accessible
+	 \item To load the names of the module inside the current namespace: \texttt{from amodule import goofy}
+	 \item To import all the names inside \texttt{amodule.py}:  \texttt{from amodule import *}, in which case only the names starting with an \texttt{\_} will not be directly accessible
                \begin{itemize}
 		\item in this way it is possible just to call \texttt{goophy()}
               \end{itemize}
-	 \item It is also possible to rename an entity or module as 
+	 \item \textcolor{red}{Be careful}, but is also possible to rename an entity or module as 
 	       \begin{itemize}
 		  \item \texttt{import amodule as unmodulo}, leading to calls like \texttt{unmodulo.goophy()} or even
 		  \item  \texttt{from amodule import goofy as pippo}, leading to calls like \texttt{amodule.pippo()}
@@ -1929,6 +1930,53 @@ Before the third call to f x is:  [4]
     \end{center}
 \end{frame}
 
+\begin{frame}[fragile]
+{\centerline{Namespaces}}
+\begin{itemize}
+	 \item A namespace is the set of all names associated to objects visible at a certain time and place
+	 \item The current namespace is accessible with the instruction \texttt{dir()}
+	 \item It is also possible to view the namespace of a specific module with \texttt{dir(amodule)}
+ \end{itemize}
+    \begin{center}
+	\tiny Source: \url{https://py-pkgs.org/04-package-structure.html}
+    \end{center}
+\end{frame}
+
+\begin{frame}[fragile]
+{\centerline{Packages (1/n)}}
+\begin{itemize}
+	 \item A package is a collection of modules
+	 \item From a system viewpoint, a package is a directory:
+	\begin{itemize}
+		 \item inside the list specified by \texttt{sys.path}
+		 \item with a \texttt{\_\_init\_\_.py} file, which can also be empty \textcolor{red}{but must exist}
+	 \end{itemize}
+	 \item From an internal perspective, a package is a module object
+	 \item The \texttt{import} statement applies for packages like for modules
+	 \item A subpackages is a subdirectory of a (sub)packages with a  with a \texttt{\_\_init\_\_.py} file
+	 \item The \texttt{.} separates a package from subpackages and modules
+	 
+ \end{itemize}
+    \begin{center}
+	\tiny Source: \url{https://stackoverflow.com/questions/4881897/python-project-and-package-directories-layout} and \url{https://py-pkgs.org/04-package-structure.html}
+    \end{center}
+\end{frame}
+
+
+\begin{frame}[fragile]
+{\centerline{Packages (2/n)}}
+\begin{itemize}
+	 \item When a package is loaded, its \texttt{\_\_init\_\_.py} is executed
+	 \item It acts as a kind of constructor of the package
+	 
+ \end{itemize}
+    \begin{center}
+	\tiny Source: \url{https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html}
+    \end{center}
+\end{frame}
+
+
+
 
 
 
@@ -1936,6 +1984,20 @@ Before the third call to f x is:  [4]
 
 \begin{frame}
 {\centerline{Python as a functional language}}
+\end{frame}
+
+\begin{frame}
+{\centerline{Already covered}}
+\begin{itemize}
+    \item Lambda expressions
+    \item Immutable objects
+    \item Unchangeable (by default) global variables inside local scopes
+\end{itemize} 
+\end{frame}
+
+
+\begin{frame}
+{\centerline{Python as an object oriented language}}
 \end{frame}
 
 o90\begin{frame}
@@ -1946,6 +2008,17 @@ o90\begin{frame}
     \item Unchangeable (by default) global variables inside local scopes
 \end{itemize} 
 \end{frame}
+
+
+\begin{frame}
+{\centerline{What is an object}}
+\begin{itemize}
+    \item A module
+    \item A function
+    \item A package (check)
+\end{itemize} 
+\end{frame}
+
 
 
 

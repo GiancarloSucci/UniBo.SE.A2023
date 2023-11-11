@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  14 OCT 2023 18:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  15 OCT 2023 10:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2672,13 +2672,13 @@ Package pdftex.def Info: unibo-logo.png  used on input line 1879.
 \openout4 = `L01.CodingChatGPT.vrb'.
 
  (./L01.CodingChatGPT.vrb)
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1895--1895
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1896--1896
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1895.
+Package pdftex.def Info: unibo-logo.png  used on input line 1896.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [70
 
@@ -2686,13 +2686,13 @@ Package pdftex.def Info: unibo-logo.png  used on input line 1895.
 \openout4 = `L01.CodingChatGPT.vrb'.
 
  (./L01.CodingChatGPT.vrb)
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1911--1911
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1912--1912
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1911.
+Package pdftex.def Info: unibo-logo.png  used on input line 1912.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [71
 
@@ -2700,65 +2700,48 @@ Package pdftex.def Info: unibo-logo.png  used on input line 1911.
 \openout4 = `L01.CodingChatGPT.vrb'.
 
  (./L01.CodingChatGPT.vrb)
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1930--1930
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1931--1931
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1930.
+Package pdftex.def Info: unibo-logo.png  used on input line 1931.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [72
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1939--1939
+\openout4 = `L01.CodingChatGPT.vrb'.
+
+ (./L01.CodingChatGPT.vrb)
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1943--1943
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1939.
+Package pdftex.def Info: unibo-logo.png  used on input line 1943.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [73
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1948--1948
+\openout4 = `L01.CodingChatGPT.vrb'.
+
+ (./L01.CodingChatGPT.vrb)
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1963--1963
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1948.
+Package pdftex.def Info: unibo-logo.png  used on input line 1963.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [74
+[74
 
 ]
-[75]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1959--1959
- []|[]|  
- []
+\openout4 = `L01.CodingChatGPT.vrb'.
 
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1959.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[76
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1969--1969
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1969.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[77
-
-]
+ (./L01.CodingChatGPT.vrb)
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 1976--1976
  []|[]|  
  []
@@ -2767,40 +2750,40 @@ File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
 Package pdftex.def Info: unibo-logo.png  used on input line 1976.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[75
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1987--1987
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1987.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[76
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1996--1996
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1996.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[77
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2001--2001
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2001.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [78
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1983--1983
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1983.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[79
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1991--1991
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1991.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[80
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1999--1999
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1999.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[81
 
 ]
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 2010--2010
@@ -2811,70 +2794,90 @@ File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
 Package pdftex.def Info: unibo-logo.png  used on input line 2010.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[82
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2021--2021
+[80]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2020--2020
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2021.
+Package pdftex.def Info: unibo-logo.png  used on input line 2020.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[81
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2032--2032
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2032.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[82
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2042--2042
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2042.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [83
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2033--2033
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2049--2049
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2033.
+Package pdftex.def Info: unibo-logo.png  used on input line 2049.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [84
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2041--2041
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2056--2056
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2041.
+Package pdftex.def Info: unibo-logo.png  used on input line 2056.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [85
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2052--2052
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2064--2064
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2052.
+Package pdftex.def Info: unibo-logo.png  used on input line 2064.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [86
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2066--2066
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2072--2072
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2066.
+Package pdftex.def Info: unibo-logo.png  used on input line 2072.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [87
 
 ]
-<Coding/execvp.jpg, id=695, 596.2275pt x 443.6575pt>
-File: Coding/execvp.jpg Graphic file (type jpg)
-<use Coding/execvp.jpg>
-Package pdftex.def Info: Coding/execvp.jpg  used on input line 2083.
-(pdftex.def)             Requested size: 171.14764pt x 127.35083pt.
-
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 2083--2083
  []|[]|  
  []
@@ -2885,41 +2888,40 @@ Package pdftex.def Info: unibo-logo.png  used on input line 2083.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [88
 
- <./Coding/execvp.jpg>]
-<Coding/forkExec.jpg, id=703, 1571.8725pt x 1176.395pt>
-File: Coding/forkExec.jpg Graphic file (type jpg)
-<use Coding/forkExec.jpg>
-Package pdftex.def Info: Coding/forkExec.jpg  used on input line 2100.
-(pdftex.def)             Requested size: 205.37926pt x 153.69063pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2100--2100
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2094--2094
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2100.
+Package pdftex.def Info: unibo-logo.png  used on input line 2094.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [89
 
- <./Coding/forkExec.jpg>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2116--2116
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2106--2106
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2116.
+Package pdftex.def Info: unibo-logo.png  used on input line 2106.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [90
 
 ]
-Overfull \hbox (23.22992pt too wide) in paragraph at lines 2125--2125
-\OT1/cmtt/m/n/12 python-[]virtual-[]environment-[]setup-[]on-[]mac-[]osx-[]easi
-est-[]way$[]  
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2114--2114
+ []|[]|  
  []
 
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2114.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[91
 
+]
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 2125--2125
  []|[]|  
  []
@@ -2928,237 +2930,231 @@ File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
 Package pdftex.def Info: unibo-logo.png  used on input line 2125.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[91
-
-]
-<Coding/PyCharm.Settings.jpg, id=728, 564.1075pt x 232.87pt>
-File: Coding/PyCharm.Settings.jpg Graphic file (type jpg)
-<use Coding/PyCharm.Settings.jpg>
-Package pdftex.def Info: Coding/PyCharm.Settings.jpg  used on input line 2137.
-(pdftex.def)             Requested size: 342.2953pt x 141.30429pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2137--2137
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2137.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [92
 
- <./Coding/PyCharm.Settings.jpg>]
-<Coding/PyCharm.EditScope.jpg, id=735, 441.65pt x 449.68pt>
-File: Coding/PyCharm.EditScope.jpg Graphic file (type jpg)
-<use Coding/PyCharm.EditScope.jpg>
-Package pdftex.def Info: Coding/PyCharm.EditScope.jpg  used on input line 2147.
-
-(pdftex.def)             Requested size: 171.14764pt x 174.25606pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2147--2147
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2139--2139
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2147.
+Package pdftex.def Info: unibo-logo.png  used on input line 2139.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [93
 
- <./Coding/PyCharm.EditScope.jpg>]
-<Coding/PyCharm.Project.jpg, id=742, 604.2575pt x 204.765pt>
-File: Coding/PyCharm.Project.jpg Graphic file (type jpg)
-<use Coding/PyCharm.Project.jpg>
-Package pdftex.def Info: Coding/PyCharm.Project.jpg  used on input line 2157.
-(pdftex.def)             Requested size: 205.37926pt x 69.59729pt.
+]
+<Coding/execvp.jpg, id=736, 596.2275pt x 443.6575pt>
+File: Coding/execvp.jpg Graphic file (type jpg)
+<use Coding/execvp.jpg>
+Package pdftex.def Info: Coding/execvp.jpg  used on input line 2156.
+(pdftex.def)             Requested size: 171.14764pt x 127.35083pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2157--2157
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2156--2156
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2157.
+Package pdftex.def Info: unibo-logo.png  used on input line 2156.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [94
 
- <./Coding/PyCharm.Project.jpg>]
-<Coding/PyCharm.PhytonInterpreter.jpg, id=749, 756.8275pt x 327.2225pt>
-File: Coding/PyCharm.PhytonInterpreter.jpg Graphic file (type jpg)
-<use Coding/PyCharm.PhytonInterpreter.jpg>
-Package pdftex.def Info: Coding/PyCharm.PhytonInterpreter.jpg  used on input li
-ne 2167.
-(pdftex.def)             Requested size: 342.2953pt x 147.99272pt.
+ <./Coding/execvp.jpg>]
+<Coding/forkExec.jpg, id=744, 1571.8725pt x 1176.395pt>
+File: Coding/forkExec.jpg Graphic file (type jpg)
+<use Coding/forkExec.jpg>
+Package pdftex.def Info: Coding/forkExec.jpg  used on input line 2173.
+(pdftex.def)             Requested size: 205.37926pt x 153.69063pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2167--2167
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2173--2173
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2167.
+Package pdftex.def Info: unibo-logo.png  used on input line 2173.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [95
 
- <./Coding/PyCharm.PhytonInterpreter.jpg>]
-<Coding/PyCharm.AddLocalInterpreter.jpg, id=756, 1601.985pt x 383.4325pt>
-File: Coding/PyCharm.AddLocalInterpreter.jpg Graphic file (type jpg)
-<use Coding/PyCharm.AddLocalInterpreter.jpg>
-Package pdftex.def Info: Coding/PyCharm.AddLocalInterpreter.jpg  used on input 
-line 2177.
-(pdftex.def)             Requested size: 273.83728pt x 65.53955pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2177--2177
+ <./Coding/forkExec.jpg>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2189--2189
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2177.
+Package pdftex.def Info: unibo-logo.png  used on input line 2189.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [96
 
- <./Coding/PyCharm.AddLocalInterpreter.jpg>]
-<Coding/PyCharm.VirtualEnvironment.jpg, id=763, 2001.4775pt x 279.0425pt>
-File: Coding/PyCharm.VirtualEnvironment.jpg Graphic file (type jpg)
-<use Coding/PyCharm.VirtualEnvironment.jpg>
-Package pdftex.def Info: Coding/PyCharm.VirtualEnvironment.jpg  used on input l
-ine 2187.
-(pdftex.def)             Requested size: 342.2953pt x 47.72186pt.
+]
+Overfull \hbox (23.22992pt too wide) in paragraph at lines 2198--2198
+\OT1/cmtt/m/n/12 python-[]virtual-[]environment-[]setup-[]on-[]mac-[]osx-[]easi
+est-[]way$[]  
+ []
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2187--2187
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2198--2198
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2187.
+Package pdftex.def Info: unibo-logo.png  used on input line 2198.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [97
 
- <./Coding/PyCharm.VirtualEnvironment.jpg>]
-<Coding/PyCharm.RunEditConfigurations.jpg, id=771, 584.1825pt x 469.755pt>
-File: Coding/PyCharm.RunEditConfigurations.jpg Graphic file (type jpg)
-<use Coding/PyCharm.RunEditConfigurations.jpg>
-Package pdftex.def Info: Coding/PyCharm.RunEditConfigurations.jpg  used on inpu
-t line 2200.
-(pdftex.def)             Requested size: 205.37926pt x 165.14783pt.
+]
+<Coding/PyCharm.Settings.jpg, id=769, 564.1075pt x 232.87pt>
+File: Coding/PyCharm.Settings.jpg Graphic file (type jpg)
+<use Coding/PyCharm.Settings.jpg>
+Package pdftex.def Info: Coding/PyCharm.Settings.jpg  used on input line 2210.
+(pdftex.def)             Requested size: 342.2953pt x 141.30429pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2200--2200
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2210--2210
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2200.
+Package pdftex.def Info: unibo-logo.png  used on input line 2210.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [98
 
- <./Coding/PyCharm.RunEditConfigurations.jpg>]
-<Coding/PyCharm.EnvironmentalVariables.jpg, id=778, 1425.325pt x 588.1975pt>
-File: Coding/PyCharm.EnvironmentalVariables.jpg Graphic file (type jpg)
-<use Coding/PyCharm.EnvironmentalVariables.jpg>
-Package pdftex.def Info: Coding/PyCharm.EnvironmentalVariables.jpg  used on inp
-ut line 2213.
-(pdftex.def)             Requested size: 342.2953pt x 141.25105pt.
+ <./Coding/PyCharm.Settings.jpg>]
+<Coding/PyCharm.EditScope.jpg, id=776, 441.65pt x 449.68pt>
+File: Coding/PyCharm.EditScope.jpg Graphic file (type jpg)
+<use Coding/PyCharm.EditScope.jpg>
+Package pdftex.def Info: Coding/PyCharm.EditScope.jpg  used on input line 2220.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2213--2213
+(pdftex.def)             Requested size: 171.14764pt x 174.25606pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2220--2220
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2213.
+Package pdftex.def Info: unibo-logo.png  used on input line 2220.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [99
 
- <./Coding/PyCharm.EnvironmentalVariables.jpg>]
-<Coding/PyCharm.AddEnvironmentalVariable.jpg, id=785, 658.46pt x 305.14pt>
-File: Coding/PyCharm.AddEnvironmentalVariable.jpg Graphic file (type jpg)
-<use Coding/PyCharm.AddEnvironmentalVariable.jpg>
-Package pdftex.def Info: Coding/PyCharm.AddEnvironmentalVariable.jpg  used on i
-nput line 2227.
-(pdftex.def)             Requested size: 308.06367pt x 142.76396pt.
+ <./Coding/PyCharm.EditScope.jpg>]
+<Coding/PyCharm.Project.jpg, id=783, 604.2575pt x 204.765pt>
+File: Coding/PyCharm.Project.jpg Graphic file (type jpg)
+<use Coding/PyCharm.Project.jpg>
+Package pdftex.def Info: Coding/PyCharm.Project.jpg  used on input line 2230.
+(pdftex.def)             Requested size: 205.37926pt x 69.59729pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2227--2227
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2230--2230
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2227.
+Package pdftex.def Info: unibo-logo.png  used on input line 2230.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [100
 
- <./Coding/PyCharm.AddEnvironmentalVariable.jpg>]
-<Coding/PyCharm.SpecifyEnvironmentalVariable.jpg, id=792, 774.895pt x 321.2pt>
-File: Coding/PyCharm.SpecifyEnvironmentalVariable.jpg Graphic file (type jpg)
-<use Coding/PyCharm.SpecifyEnvironmentalVariable.jpg>
-Package pdftex.def Info: Coding/PyCharm.SpecifyEnvironmentalVariable.jpg  used 
-on input line 2245.
-(pdftex.def)             Requested size: 308.06367pt x 127.69354pt.
+ <./Coding/PyCharm.Project.jpg>]
+<Coding/PyCharm.PhytonInterpreter.jpg, id=791, 756.8275pt x 327.2225pt>
+File: Coding/PyCharm.PhytonInterpreter.jpg Graphic file (type jpg)
+<use Coding/PyCharm.PhytonInterpreter.jpg>
+Package pdftex.def Info: Coding/PyCharm.PhytonInterpreter.jpg  used on input li
+ne 2240.
+(pdftex.def)             Requested size: 342.2953pt x 147.99272pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2240--2240
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2245.
+Package pdftex.def Info: unibo-logo.png  used on input line 2240.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [101
 
- <./Coding/PyCharm.SpecifyEnvironmentalVariable.jpg>]
-File: Coding/PyCharm.VirtualEnvironment.jpg Graphic file (type jpg)
-<use Coding/PyCharm.VirtualEnvironment.jpg>
-Package pdftex.def Info: Coding/PyCharm.VirtualEnvironment.jpg  used on input l
-ine 2262.
-(pdftex.def)             Requested size: 342.2953pt x 47.72186pt.
+ <./Coding/PyCharm.PhytonInterpreter.jpg>]
+<Coding/PyCharm.AddLocalInterpreter.jpg, id=798, 1601.985pt x 383.4325pt>
+File: Coding/PyCharm.AddLocalInterpreter.jpg Graphic file (type jpg)
+<use Coding/PyCharm.AddLocalInterpreter.jpg>
+Package pdftex.def Info: Coding/PyCharm.AddLocalInterpreter.jpg  used on input 
+line 2250.
+(pdftex.def)             Requested size: 273.83728pt x 65.53955pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2262--2262
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2250--2250
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2262.
+Package pdftex.def Info: unibo-logo.png  used on input line 2250.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [102
 
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2272--2272
+ <./Coding/PyCharm.AddLocalInterpreter.jpg>]
+<Coding/PyCharm.VirtualEnvironment.jpg, id=805, 2001.4775pt x 279.0425pt>
+File: Coding/PyCharm.VirtualEnvironment.jpg Graphic file (type jpg)
+<use Coding/PyCharm.VirtualEnvironment.jpg>
+Package pdftex.def Info: Coding/PyCharm.VirtualEnvironment.jpg  used on input l
+ine 2260.
+(pdftex.def)             Requested size: 342.2953pt x 47.72186pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2260--2260
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2272.
+Package pdftex.def Info: unibo-logo.png  used on input line 2260.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [103
 
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2281--2281
+ <./Coding/PyCharm.VirtualEnvironment.jpg>]
+<Coding/PyCharm.RunEditConfigurations.jpg, id=813, 584.1825pt x 469.755pt>
+File: Coding/PyCharm.RunEditConfigurations.jpg Graphic file (type jpg)
+<use Coding/PyCharm.RunEditConfigurations.jpg>
+Package pdftex.def Info: Coding/PyCharm.RunEditConfigurations.jpg  used on inpu
+t line 2273.
+(pdftex.def)             Requested size: 205.37926pt x 165.14783pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2273--2273
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2281.
+Package pdftex.def Info: unibo-logo.png  used on input line 2273.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [104
 
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2290--2290
+ <./Coding/PyCharm.RunEditConfigurations.jpg>]
+<Coding/PyCharm.EnvironmentalVariables.jpg, id=820, 1425.325pt x 588.1975pt>
+File: Coding/PyCharm.EnvironmentalVariables.jpg Graphic file (type jpg)
+<use Coding/PyCharm.EnvironmentalVariables.jpg>
+Package pdftex.def Info: Coding/PyCharm.EnvironmentalVariables.jpg  used on inp
+ut line 2286.
+(pdftex.def)             Requested size: 342.2953pt x 141.25105pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2286--2286
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2290.
+Package pdftex.def Info: unibo-logo.png  used on input line 2286.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [105
 
-]
+ <./Coding/PyCharm.EnvironmentalVariables.jpg>]
+<Coding/PyCharm.AddEnvironmentalVariable.jpg, id=827, 658.46pt x 305.14pt>
+File: Coding/PyCharm.AddEnvironmentalVariable.jpg Graphic file (type jpg)
+<use Coding/PyCharm.AddEnvironmentalVariable.jpg>
+Package pdftex.def Info: Coding/PyCharm.AddEnvironmentalVariable.jpg  used on i
+nput line 2300.
+(pdftex.def)             Requested size: 308.06367pt x 142.76396pt.
+
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 2300--2300
  []|[]|  
  []
@@ -3168,6 +3164,85 @@ File: unibo-logo.png Graphic file (type png)
 Package pdftex.def Info: unibo-logo.png  used on input line 2300.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [106
+
+ <./Coding/PyCharm.AddEnvironmentalVariable.jpg>]
+<Coding/PyCharm.SpecifyEnvironmentalVariable.jpg, id=834, 774.895pt x 321.2pt>
+File: Coding/PyCharm.SpecifyEnvironmentalVariable.jpg Graphic file (type jpg)
+<use Coding/PyCharm.SpecifyEnvironmentalVariable.jpg>
+Package pdftex.def Info: Coding/PyCharm.SpecifyEnvironmentalVariable.jpg  used 
+on input line 2318.
+(pdftex.def)             Requested size: 308.06367pt x 127.69354pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2318--2318
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2318.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[107
+
+ <./Coding/PyCharm.SpecifyEnvironmentalVariable.jpg>]
+File: Coding/PyCharm.VirtualEnvironment.jpg Graphic file (type jpg)
+<use Coding/PyCharm.VirtualEnvironment.jpg>
+Package pdftex.def Info: Coding/PyCharm.VirtualEnvironment.jpg  used on input l
+ine 2335.
+(pdftex.def)             Requested size: 342.2953pt x 47.72186pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2335--2335
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2335.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[108
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2345--2345
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2345.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[109
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2354--2354
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2354.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[110
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2363--2363
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2363.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[111
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2373--2373
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2373.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[112
 
 ]
 \tf@nav=\write8
@@ -3184,10 +3259,10 @@ Package rerunfilecheck Info: File `L01.CodingChatGPT.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 44640 strings out of 478994
- 1020069 string characters out of 5858184
- 1966839 words of memory out of 5000000
- 60902 multiletter control sequences out of 15000+600000
+ 44670 strings out of 478994
+ 1020435 string characters out of 5858184
+ 1967085 words of memory out of 5000000
+ 60914 multiletter control sequences out of 15000+600000
  414034 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,16n,132p,714b,1462s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3203,10 +3278,10 @@ cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
 texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/t
 exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/te
 xlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on L01.CodingChatGPT.pdf (106 pages, 1373567 bytes).
+Output written on L01.CodingChatGPT.pdf (112 pages, 1379219 bytes).
 PDF statistics:
- 926 PDF objects out of 1000 (max. 8388607)
- 744 compressed objects within 8 object streams
- 214 named destinations out of 1000 (max. 500000)
+ 973 PDF objects out of 1000 (max. 8388607)
+ 785 compressed objects within 8 object streams
+ 226 named destinations out of 1000 (max. 500000)
  306 words of extra memory for PDF output out of 10000 (max. 10000000)
 
